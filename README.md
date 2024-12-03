@@ -16,7 +16,7 @@ The Project involves the classification of eye dieseases such as Glaucoma, Diabe
 The Datasets used are: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification .<br/>
 The dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images. These images are collected from various sorces like IDRiD, Oculur recognition, HRF etc.<br/>
 
-Download The model Weights from here :
+Download The model Weights from here : https://drive.google.com/file/d/13tkFeLqYWk-OrFyq2egwgXbqTtIZNITr/view?usp=sharing
 
 The Process includes Loading the base model, Data Preprocessing, Training, Validation and model access.<br/>
 
